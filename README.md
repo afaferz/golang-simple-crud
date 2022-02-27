@@ -2,7 +2,7 @@
 
 ## To run
 ```
-git clone <repo>
+git clone git@github.com:afaferz/simple-crud.git
 make go
 ```
 ## View
